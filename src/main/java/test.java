@@ -6,5 +6,6 @@ public class test {
             System.out.println("test01");
             System.out.println("test02");
             System.out.println("demo10");//demo10第一次test
+            System.out.println("demo02");//demo02第一次test
     }
 }
